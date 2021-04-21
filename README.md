@@ -1,0 +1,2 @@
+# BOTs
+Wielofunkcyjny bot
